@@ -28,6 +28,7 @@ form input, form button {
     padding: 0.5em;
     font-size: 2rem;
     border: none;
+    outline: none;
     background: white;
     box-shadow: 5px 10px black;
 }
