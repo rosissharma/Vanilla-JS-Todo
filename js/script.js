@@ -130,6 +130,7 @@ function loadTodos() {
 
         //append to div
         todoDiv.appendChild(newTodo);
+        todoInput.value = '';
 
         //complete button
         const completedButton = document.createElement('button');
